@@ -27,7 +27,6 @@ export const Sasha = () => {
         </span>
 
         <ul>
-          {/* Перше знайомство */}
           {!visibleItems.includes(0) && (
             <button className="tytsy" onClick={() => handleShowItem(0)}>
               Тицяй
@@ -48,7 +47,6 @@ export const Sasha = () => {
             </li>
           )}
 
-          {/* Різні прикольчики */}
           {!visibleItems.includes(1) && visibleItems.includes(0) && (
             <button className="tytsy" onClick={() => handleShowItem(1)}>
               Тицяй
@@ -125,8 +123,6 @@ export const Sasha = () => {
                     </p>
                   </li>
                 )}
-
-                {/* Серйозне побажання */}
                 {!visibleItems.includes(6) && visibleItems.includes(5) && (
                   <button className="tytsy" onClick={() => handleShowItem(6)}>
                     Тицяй
