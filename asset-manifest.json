@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/sashareact/static/css/main.444484eb.css",
+    "main.css": "/sashareact/static/css/main.2480598d.css",
     "main.js": "/sashareact/static/js/main.91d48b74.js",
     "index.html": "/sashareact/index.html",
-    "main.444484eb.css.map": "/sashareact/static/css/main.444484eb.css.map",
+    "main.2480598d.css.map": "/sashareact/static/css/main.2480598d.css.map",
     "main.91d48b74.js.map": "/sashareact/static/js/main.91d48b74.js.map"
   },
   "entrypoints": [
-    "static/css/main.444484eb.css",
+    "static/css/main.2480598d.css",
     "static/js/main.91d48b74.js"
   ]
 }
